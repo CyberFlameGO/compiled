@@ -26,7 +26,7 @@
     "@babel/plugin-syntax-jsx": "^7.16.7",
     "@babel/plugin-transform-flow-strip-types": "^7.16.7",
     "@babel/template": "^7.16.7",
-    "@babel/traverse": "^7.17.10",
+    "@babel/traverse": "^7.23.2",
     "@babel/types": "^7.17.10",
     "@compiled/css": "^0.8.5",
     "@compiled/utils": "^0.6.16",
